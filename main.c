@@ -3,6 +3,6 @@
 
 int main()
 {
-printMyName();
+printID();
 return 0;
 }

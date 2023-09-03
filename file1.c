@@ -2,7 +2,7 @@
 #include "file1.h"
 
 
-void printMyName(void)
+void printID(void)
 {
-printf("Donia Muhammed");
+printf("2021195");
 }
